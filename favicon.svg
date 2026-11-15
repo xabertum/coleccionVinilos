@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Disco de vinilo con la paleta de la web: negro, galleta naranja y agujero crema -->
+  <circle cx="32" cy="32" r="31" fill="#17110d"/>
+  <g fill="none" stroke="#3a2f28" stroke-width="1.2">
+    <circle cx="32" cy="32" r="26"/>
+    <circle cx="32" cy="32" r="21.5"/>
+    <circle cx="32" cy="32" r="17"/>
+  </g>
+  <!-- Brillo -->
+  <path d="M12 21 A23 23 0 0 1 24 10" fill="none" stroke="#fffaf0" stroke-opacity=".45" stroke-width="2.6" stroke-linecap="round"/>
+  <circle cx="32" cy="32" r="12" fill="#d9622b"/>
+  <circle cx="32" cy="32" r="8.5" fill="none" stroke="#e3a72f" stroke-width="1.4"/>
+  <circle cx="32" cy="32" r="2.6" fill="#f6f1e7"/>
+</svg>
